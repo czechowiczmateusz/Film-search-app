@@ -26,7 +26,7 @@
     "file-loader": "^1.1.11",
     "react-router": "^3.2.1",
     "webpack": "^4.26.1",
-    "webpack-cli": "^3.1.2",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.1.10",
     "whatwg-fetch": "^3.0.0",
     "svg-inline-loader": "^0.8.0"
